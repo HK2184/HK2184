@@ -16,16 +16,42 @@
 
 ## 🧠 About Me
 
-```python
-hari = {
-    "degree"     : "B.Tech AI & Data Science (Medical Engineering) @ Amrita VV",
-    "year"       : "3rd year | CGPA: 8.22 | Graduating 2028",
-    "citizenship": "Australian 🇦🇺 | Based in India 🇮🇳",
-    "focus"      : ["LLMs", "Federated Learning", "Agentic AI", "Medical AI"],
-    "motto"      : "I work best when the problem is genuinely hard."
-}
-```
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🎓-Amrita%20Vishwa%20Vidyapeetham-1A56A8?style=flat-square&logoColor=white" />
+<br/><sub>B.Tech AI & Data Science</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📊-CGPA%3A%208.22-FF9900?style=flat-square" />
+<br/><sub>3rd Year | Graduating 2028</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🇦🇺-Australian%20Citizen-00843D?style=flat-square" />
+<br/><sub>Based in India</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📄-IEEE%20First%20Author-CC0000?style=flat-square" />
+<br/><sub>ICCCNT 2025 @ 19</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🔥-AMD%20AI%20Developer-ED1C24?style=flat-square" />
+<br/><sub>MI300X GPU | ROCm 7.2</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/⚡-4%2B%20Years%20Python-3776AB?style=flat-square" />
+<br/><sub>Production Level</sub>
+</td>
+</tr>
+</table>
+
+> *"I work best when the problem is genuinely hard."*
+
+</div>
 ---
 
 ## ⚡ Tech Stack
